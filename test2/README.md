@@ -100,6 +100,7 @@ SELECT a.tablespace_name "表空间名",Total/1024/1024 "大小MB",
         group  BY tablespace_name)b
  where  a.tablespace_name = b.tablespace_name;
 
+
  实验截图:
 ![](pic8.png)
 
