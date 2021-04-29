@@ -109,6 +109,7 @@ BEGIN
   MYPACK.Get_Employees (  V_EMPLOYEE_ID => V_EMPLOYEE_ID) ;    
 END;
 ```
+实验截图:
 ![](pic4.png)
 
 ## 实验总结
